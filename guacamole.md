@@ -6,3 +6,4 @@
 * salt
 * pepper
 ## Instructions
+mash avocado squeeze lime grind pepper-salt, cut tomato add
